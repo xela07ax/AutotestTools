@@ -6,11 +6,14 @@ bin-release/
 [Oo]bj/
 [Bb]in/
 node_modules/
+quasar/
+
 tst/
 
 # Other files and folders
 .settings/
 .idea/
+
 
 # Executables
 *.swf
