@@ -1,8 +1,8 @@
 # Frame Selenoid
  ### noVnc окно в Vue.js приложеннии
 Окно просмотра исполняемой страницы ботом(js/Vue.js/noVNC)  
-Включаем noVnc для Selenoid контейнера
-  <img src="FrameSelenoid-vueVnc/Docs/vueScreen.jpg" width="350" />
+Включаем noVnc для Selenoid контейнера  
+  <img src="Docs/vueScreen.jpg" width="350" />  
 
 ### Установка
 распаковать lib-novnc.7z  
