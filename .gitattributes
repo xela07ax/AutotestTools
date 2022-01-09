@@ -1,2 +1,2 @@
-*.dsp faust-detectable=false
-*.html HTML-detectable=false
+*.dsp linguist-detectable=false
+*.html linguist-detectable=false
